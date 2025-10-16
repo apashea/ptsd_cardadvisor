@@ -1,8 +1,10 @@
 **Andrew Blake Pashea** andrewpashea@activeinference.institute
 
-Hierarchical Active Inference Modeling of Social Trust Dynamics in PTSD 
-Authors: Andrew Pashea, Jeremy Cooper, Haeun Sun, Angelos Krypotos 
-Keywords: Computational Psychiatry, PTSD, Social Cognition, Affect, Neuroeconomics
+**Hierarchical Active Inference Modeling of Social Trust Dynamics in PTSD **
+
+*Authors: Andrew Pashea, Jeremy Cooper, Haeun Sun, Angelos Krypotos*
+
+*Keywords: Computational Psychiatry, PTSD, Social Cognition, Affect, Neuroeconomics*
 
 
 
