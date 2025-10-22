@@ -4,7 +4,7 @@
 
 *Authors: Andrew Pashea, Jeremy Cooper, Haeun Sun, Angelos Krypotos*
 
-*Keywords: Computational Psychiatry, PTSD, Social Cognition, Affect, Neuroeconomics*
+*Keywords: Computational Psychiatry, PTSD, Phenomenology, Social Cognition, Affect, Neuroeconomics*
 
 
 
