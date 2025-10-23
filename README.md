@@ -12,7 +12,7 @@ This repository stores code and documentation related to the hierarchical POMDP 
 
 
 
-The code is currently accessible in the following Google Colab notebook for hosted browser-based computing. It is currently a bitcumbersome and in need of cleaning(!) as we continue testing and experimentation, but will be refactored and packaged for ease and generality of use in the near future.
+The code is currently accessible in the following Google Colab notebook for hosted browser-based computing. It is currently a bit cumbersome and in need of cleaning(!) as we continue testing and experimentation, but will be refactored and packaged for ease and generality of use in future.
 
 
 
