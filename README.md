@@ -16,4 +16,4 @@ The code is currently accessible in the following Google Colab notebook for host
 
 
 
-[PTSD Card Advisor with Grid Search](https://colab.research.google.com/drive/1ipa6oCdu_wOPDB0fJ-p8djSDFepyZWFg?usp=sharing)
+Code: [PTSD Card Advisor with Grid Search](https://colab.research.google.com/drive/1ipa6oCdu_wOPDB0fJ-p8djSDFepyZWFg?usp=sharing)
