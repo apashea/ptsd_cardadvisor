@@ -18,6 +18,7 @@ The code is currently accessible in the following Google Colab notebook for host
 
 Code: [PTSD Card Advisor with Grid Search](https://colab.research.google.com/drive/1ipa6oCdu_wOPDB0fJ-p8djSDFepyZWFg?usp=sharing)
 
-IWAI Poster 2025:
-![IWAI Poster (Pashea et. al, 2025)](https://drive.google.com/uc?export=view&id=1K6HsYiOMzJGrecsqIhuIREU4u5rW7KLk)
+IWAI Poster 2025 (Pashea et. al, 2025):
+<img src="https://drive.google.com/uc?export=view&id=1K6HsYiOMzJGrecsqIhuIREU4u5rW7KLk" alt="IWAI Poster 2025 (Pashea et. al, 2025)" width="300">
+
 
