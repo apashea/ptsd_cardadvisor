@@ -21,6 +21,6 @@ Code: [PTSD Card Advisor with Grid Search](https://colab.research.google.com/dri
 
 IWAI Poster 2025 (Pashea et. al, 2025):
 
-<img src="https://drive.google.com/uc?export=view&id=1K6HsYiOMzJGrecsqIhuIREU4u5rW7KLk" alt="IWAI Poster 2025 (Pashea et. al, 2025)" width="300">
+<img src="https://drive.google.com/uc?export=view&id=1K6HsYiOMzJGrecsqIhuIREU4u5rW7KLk" alt="IWAI Poster 2025 (Pashea et. al, 2025)" width="600">
 
 
